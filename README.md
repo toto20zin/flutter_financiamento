@@ -1,4 +1,4 @@
-# flutter_simulador_investimentos
+# flutter_simulador_financiamento
 
 - Simulador de Financiamento
 
